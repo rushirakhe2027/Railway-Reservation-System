@@ -88,8 +88,8 @@ The system sends email notifications for various events:
    ```php
    SMTP_HOST = smtp.gmail.com
    SMTP_PORT = 587
-   SMTP_USERNAME = rakherushi8482@gmail.com
-   SMTP_PASSWORD = ggqf rejz exvm hpje
+   SMTP_USERNAME = your mail
+   SMTP_PASSWORD = your pass
    ```
 
 3. Server Requirements
